@@ -1,0 +1,16 @@
+
+NOTAS DE DESARROLLO:
+
+	(02/07/24)
+		- Inicio de proyecto crud en php y pgsql.
+
+		- Recordar que hay que habilitar el directorio como
+		sitio disponible para apache.
+
+		- Por el momento se hará la interfaz.
+
+	(03/07/24)
+		- Problema con el despliegue solucionado, ahora hay un
+		enlace simbolico del proyecto en /var/www/html para desplegar el crud.
+
+		- Conexion con base de datos realizada y busqueda de datos también.
