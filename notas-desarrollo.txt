@@ -14,3 +14,6 @@ NOTAS DE DESARROLLO:
 		enlace simbolico del proyecto en /var/www/html para desplegar el crud.
 
 		- Conexion con base de datos realizada y busqueda de datos también.
+
+	(05/07/24)
+		- Eliminación de registros agregada
